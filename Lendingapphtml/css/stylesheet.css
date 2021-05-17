@@ -1,0 +1,54 @@
+		.body{
+			font-family:"Comfortaa",serif;
+		}
+		
+		.table{
+			margin-left:auto;
+			margin-right:auto;
+		}
+		.heading{
+			text-align:center;
+			
+		}
+		.details-table{
+			border-style:solid;
+			border-width:1px;
+			border-color:black;
+			text-align:left;
+		}
+		.table-heading{
+			background-color:yellow;
+		}
+		.table-row{
+			background-color:white;
+		}
+		.header{
+			padding-top:10px;
+			padding-bottom:6px;
+			background-color:black;
+			margin-left: 24%;
+			margin-right: 24%;
+			color:white;
+		}
+		#add-addbutton{
+			margin-left:50%;
+			margin-top:2%;
+		}
+		#home-addbutton{
+			/*margin-top:10%;*/
+			margin-left:24%;
+			margin-top:2%;
+		}
+		#add-homebutton{
+			margin-left:24%;
+			margin-top:2%;
+		}
+		#close-home-button{
+			margin-left:24%;
+			margin-top:2%;
+		}
+		#close-add-button{
+			margin-left:1%;
+			margin-top:2%;
+		}
+		
